@@ -3,8 +3,7 @@
 ## A Financial Intelligence & Liquidity Management Ecosystem
 
 VYLT is a Flutter-based fintech application that reimagines how individuals understand, manage, and emotionally interact with money. Instead of functioning as a passive financial ledger, VYLT prioritises **financial clarity, cognitive reassurance, predictive awareness, and intent-based control** throughout the user's financial lifecycle.
-
-This project was developed as a **Software Engineering academic submission** and follows industry-aligned **Human-Computer Interaction (HCI)** principles, financial UX research, accessibility considerations, and **GDPR-aware privacy-first design practices**.
+The project is built as an engineering-focused portfolio piece exploring UI physics, financial modeling concepts, and structured Flutter architecture.
 
 ---
 
@@ -233,13 +232,6 @@ lib/
    flutter run
    ```
 ````
-## 📚 Academic Context
-
-This project was developed following the assessment requirements for:
-
-* **PROGRAM:** Software Engineering
-* **MODULE:** Mobile and Web Application Development
-
 The focus is placed on:
 
 * UX-driven financial problem solving
@@ -263,8 +255,8 @@ The focus is placed on:
 
 ## 🧾 License
 
-This project is developed for **educational and research purposes**.
-All financial data within this repository is **fully simulated**.
+This project was developed out of personal curiosity, product research, and the pursuit of next-generation UX. 
+It serves as a conceptual portfolio piece. All financial data within the repository is simulated.
 
 ---
 
@@ -280,7 +272,7 @@ All financial data within this repository is **fully simulated**.
 **Project Role:**
 Sole developer responsible for ideation, HCI research, UX/UI design, system architecture, Flutter implementation, and evaluation.
 
-**Contact:** [2912341@uel.ac.uk](mailto:jayanthdasroju)
+**Contact:** [u2912341@uel.ac.uk](mailto:jayanthdasroju@gmail.com)
 **Portfolio:** [https://www.jays-dev.space/](https://www.jays-dev.space/)
 
 ---
@@ -293,4 +285,5 @@ it is designed to **redefine how people emotionally understand and act on money*
 This repository represents:
 
 > A shift from *tracking money* → to *feeling and forecasting financial reality*.
+
 
