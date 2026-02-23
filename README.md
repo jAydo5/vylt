@@ -286,4 +286,19 @@ This repository represents:
 
 > A shift from *tracking money* → to *feeling and forecasting financial reality*.
 
+## 📸 App Preview
 
+### Onboarding
+![Onboarding](ssassets/onboarding.png)
+
+### Home
+![Home](ssassets/Home.png)
+
+### The Horizon
+![The Horizon](ssassets/The Horizon(analytics).png)
+
+### The Vault
+![the Vault](ssassets/The Vault.png)
+
+### Command Centre
+![Command Centre](ssassets/Command Centre.png)
