@@ -289,16 +289,17 @@ This repository represents:
 ## 📸 App Preview
 
 ### Onboarding
-![Onboarding](ssassets/onboarding.png)
+![Onboarding](lib/ssassets/onboarding.png)
 
 ### Home
-![Home](ssassets/Home.png)
+![Home](lib/ssassets/Home.png)
 
 ### The Horizon
-![The Horizon](ssassets/The Horizon(analytics).png)
+![The Horizon](lib/ssassets/TheHorizon(analytics).png)
 
 ### The Vault
-![the Vault](ssassets/The Vault.png)
+![the Vault](lib/ssassets/TheVault.png)
 
 ### Command Centre
-![Command Centre](ssassets/Command Centre.png)
+![Command Centre](lib/ssassets/Commandcentre.png)
+
