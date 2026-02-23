@@ -1,235 +1,231 @@
----
+# 💳 VYLT
 
-# 🎵 NOCTIX
+## A Financial Intelligence & Liquidity Management Ecosystem
 
-## A Smart Event Booking, Navigation, and User Support Ecosystem
+VYLT is a Flutter-based fintech application that reimagines how individuals understand, manage, and emotionally interact with money. Instead of functioning as a passive financial ledger, VYLT prioritises **financial clarity, cognitive reassurance, predictive awareness, and intent-based control** throughout the user's financial lifecycle.
 
-NOCTIX is a Flutter-based mobile application that reimagines the event-going experience beyond traditional ticket booking. Instead of focusing solely on transactions, NOCTIX prioritises **user confidence, clarity, and real-time support** throughout the entire event lifecycle from discovery and booking to entry, live attendance, and safe exit.
-
-This project was developed as part of a **Software Engineering ** academic submission and follows industry-aligned UX principles, accessibility considerations, and GDPR-aware design practices.
+This project was developed as a **Software Engineering academic submission** and follows industry-aligned **Human-Computer Interaction (HCI)** principles, financial UX research, accessibility considerations, and **GDPR-aware privacy-first design practices**.
 
 ---
 
 ## 📌 Problem Statement
 
-Existing event booking applications (e.g., Ticketmaster, Eventbrite, Dice) primarily focus on ticket purchase workflows, often neglecting the **emotional and cognitive challenges** users face before, during, and after events.
+Most existing personal finance and banking applications (e.g., Revolut, Monzo, YNAB, Mint) primarily focus on:
 
-Common user pain points identified from public reviews include:
+- Transaction tracking  
+- Balance monitoring  
+- Budget categorisation  
+- Static financial snapshots  
 
-* Uncertainty about ticket validity and entry success
-* Anxiety during entry queues and security checks
-* Lack of real-time event status updates
-* Poor guidance inside venues
-* No support during emergencies or exits
+However, they fail to address the **psychological and cognitive challenges** users face when managing money, particularly:
 
-NOCTIX addresses these issues by shifting from a *transaction-centric* model to a **user-support ecosystem**.
+- Anxiety around financial uncertainty  
+- Poor awareness of future liquidity risk  
+- Lack of forward-looking insight  
+- Cognitive overload from raw data  
+- No friction for high-risk financial actions  
+
+Public feedback and behavioural research indicate that users struggle not with **spending mechanics**, but with **financial understanding and confidence**.
+
+VYLT addresses these issues by shifting from a *transaction-centric* model to a **financial intelligence ecosystem**.
 
 ---
 
 ## 💡 Solution Overview
 
-NOCTIX introduces a **Smart Event Ecosystem** that supports users across four key phases:
+VYLT introduces a **Smart Financial Awareness Ecosystem** that supports users across four key dimensions:
 
-1. **Before the Event** – Explore, book, prepare
-2. **At Entry** – Confidence and reassurance
-3. **During the Event** – Live contextual support
-4. **After the Event** – Safe, guided exit
+1. **Awareness** – Real-time financial state clarity  
+2. **Prediction** – Runway forecasting and future liquidity insight  
+3. **Risk Intelligence** – Visual financial risk modelling  
+4. **Action Confidence** – Friction-based financial interactions  
 
-The application is designed as a **UX-first simulation**, demonstrating advanced interaction design.
+The application is designed as a **UX-first simulation**, demonstrating advanced interaction design, emotional feedback loops, and predictive financial modelling concepts.
 
 ---
 
 ## ✨ Core Features
 
-### 🎟️ Smart Event Booking
+### 📊 Financial Dashboard & Liquidity Overview
 
-* Cinematic explore & browse experience
-* Ticket type and quantity selection
-* Seat selection layout (venue-style)
-* Checkout with pricing transparency and promo
+- Real-time balance visualisation  
+- Liquid asset breakdown  
+- Dynamic financial health indicators  
+- Mood-reactive UI feedback  
 
-### ✅ Ticket Confidence & Entry Assurance System
+---
 
-* Visual reassurance that tickets are valid and ready
-* Entry readiness indicators
-* Reduces hesitation and anxiety at venue gates
+### 🧮 Runway Forecasting Engine
 
-### 📡 Live Event Status Companion
+- Predicts how long a user can sustain current spending  
+- Simulates financial sustainability  
+- Dynamic time-based liquidity modelling  
+- Visual runway countdown system  
 
-* Live contextual updates during events
-* “What’s happening now” companion screen
-* Designed to reduce uncertainty during the event
+---
 
-### 🧭 Exit Path Optimizer
+### ⚠️ Risk Intelligence Module
 
-* Visual exit guidance with crowd-aware indicators
-* Emergency mode with visual and haptic feedback
-* Designed for loud, crowded, and stressful environments
+- Portfolio volatility simulation  
+- Liquidity concentration analysis  
+- Visual risk signalling  
+- Emotional UI modulation based on financial stability  
 
-### 👗 Outfit Suggestion (Experience Layer)
+---
 
-* Personalisation-driven feature for user delight
-* Enhances lifestyle and identity alignment with events
+### 🎛️ Friction-Based Financial Actions
 
-### 👤 Profile & Subscription Ecosystem
+- Long-press confirmations  
+- Resistance sliders for high-value transfers  
+- Spring-based interaction physics  
+- Distinct haptic patterns  
 
-* Profile management
-* Subscription & payment method screens
-* Premium-style UX inspired by Spotify / Netflix
+Designed to **prevent impulsive financial behaviour** and encourage deliberate action.
+
+---
+
+### 👤 Profile & Financial Identity Layer
+
+- Personal financial preferences  
+- Risk tolerance simulation  
+- Feature gating through consent  
+- Privacy-centric personalisation  
 
 ---
 
 ## 🧠 Design & HCI Principles Applied
 
-* **Feedback** – Visual, haptic, and motion-based confirmation
-* **Visibility of System Status** – Users always know “what’s happening”
-* **Consistency & Familiarity** – Industry-standard navigation patterns
-* **Error Prevention** – Clear constraints and confirmations
-* **Accessibility Awareness** – Reduced cognitive load, large tap targets
-* **GDPR-Conscious Design** – No unnecessary data storage or tracking
+- **Visibility of System Status** – Continuous financial clarity  
+- **Feedback** – Visual, haptic, and motion-based confirmation  
+- **Error Prevention** – Intent friction and action constraints  
+- **Recognition Over Recall** – Data-driven insights, not raw numbers  
+- **Cognitive Load Reduction** – Progressive information disclosure  
+- **GDPR-Conscious UX** – Minimal data collection, consent-driven features  
 
 ---
 
-## 🎨 Noctix UI Style Guide (Brief)
+## 🎨 VYLT UI Style Guide (Brief)
 
-This style guide defines the core visual and interaction standards used across the NOCTIX application. It ensures design consistency, usability, and scalability throughout current and future development.
+This style guide defines the core visual and interaction standards used across the VYLT application, ensuring **design consistency, usability, and emotional engagement**.
 
 ---
 
 ### 1. Colour Tokens
 
-NOCTIX adopts a **dark premium theme** to align with night-time events and concert environments while reducing eye strain.
+VYLT adopts a **dark intelligence theme**, reinforcing clarity, focus, and emotional neutrality during financial decision-making.
 
-* **Primary Background:** `#0B0B0D` (Deep Black)
-* **Surface / Cards:** `#141418` (Dark Charcoal)
-* **Primary Accent:** `#D4AF37` (Gold – premium emphasis)
-* **Text – Primary:** `#FFFFFF`
-* **Text – Secondary:** `rgba(255,255,255,0.7)`
-* **Text – Muted / Hints:** `rgba(255,255,255,0.5)`
-* **Error / Critical Actions:** Red Accent
+- **Primary Background:** `#000000`  
+- **Surface / Cards:** `#1C1C1E`  
+- **Stable Financial State:** Blue  
+- **High Volatility / Risk:** Red  
+- **Recovery / Positive Trajectory:** Green  
+- **Primary Accent:** Subtle gradient overlays  
 
-Gold is reserved for **key actions, highlights, and system confidence indicators** to maintain visual hierarchy and avoid overuse.
+Colour modulation dynamically adapts to **financial risk levels**.
 
 ---
 
 ### 2. Typography Hierarchy
 
-Typography prioritises readability, hierarchy, and elegance.
+Typography prioritises **clarity, hierarchy, and emotional neutrality**.
 
-* **Headings:** *Playfair Display*
-
-  * Used for screen titles and major sections
-  * Conveys a premium, editorial tone
-* **Body & UI Text:** *Inter*
-
-  * Used for labels, descriptions, buttons, and system messages
-  * Optimised for legibility on mobile screens
-
-Font weights are used consistently to guide attention rather than relying on colour alone.
+- **Headings:** *Playfair Display*  
+  - Used for financial summaries and dashboard emphasis  
+- **Body & UI Text:** *Inter*  
+  - Optimised for high-density numeric data and readability  
 
 ---
 
 ### 3. Button States & Interaction Feedback
 
-Buttons follow clear affordance and feedback principles:
+- **Primary Actions:** Gradient surfaces with motion feedback  
+- **Secondary Actions:** Subtle surface outlines  
+- **Destructive Actions:** Red accent + friction confirmation  
+- **Disabled State:** Muted contrast  
 
-* **Primary Button:** Gold background, black text
-* **Secondary Button:** Dark surface with gold outline or icon
-* **Disabled State:** Reduced opacity and muted contrast
-* **Destructive Actions:** Red text or accent
-
-Haptic feedback and subtle animations are used to reinforce successful actions and state changes.
+Haptic feedback and spring-based animations reinforce **financial intent awareness**.
 
 ---
 
 ### 4. Reusable UI Components
 
-To support scalability, NOCTIX is built around reusable components:
-
-* Event cards
-* Action pills (Quick Actions)
-* Status chips (Booked, Upcoming, Completed)
-* Form inputs and selectors
-* Bottom action bars
-
-This modular approach improves maintainability and ensures a consistent user experience across the app.
+- Financial metric cards  
+- Volatility indicators  
+- Runway timeline widgets  
+- Action friction sliders  
+- Smart notification banners  
 
 ---
 
-## 🔐 Authentication
+## 🔐 Authentication & Privacy Architecture
 
-* Firebase Authentication (Email/Password)
-* Secure login and registration flow
-* Auth gate for protected navigation
-* Logout functionality implemented
+- Firebase Authentication (Email/Password)  
+- Auth-gated navigation  
+- No plaintext financial storage  
+- Consent-driven feature gating  
 
-> Note: This project intentionally avoids local persistent storage (e.g. shared_preferences) to maintain GDPR-aware UX simulation.
+> Note: VYLT avoids persistent local storage of sensitive personal data to reinforce **GDPR-first interaction design**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-* Flutter (Dart)
-* Material UI + Custom Theming
-* Flutter Animate
-* Google Fonts
+- Flutter (Dart)  
+- Material + Cupertino Hybrid  
+- Custom UI Painters  
+- Flutter Animate  
+- Google Fonts  
 
-**Backend / Services**
+### Backend / Services
 
-* Firebase Authentication
-* Firebase Core
+- Firebase Core  
+- Firebase Authentication  
 
-**Design**
+### Local Storage
 
-* Paper Prototypes (Low-Fidelity)
-* Figma Prototype
+- Custom privacy-first local database abstraction  
 
 ---
 
-## 📁 Project Structure 
+## 📁 Project Structure
 
 ```
+
 lib/
 │── main.dart
-│── auth/
-│   ├── auth_gate.dart
-│   ├── login_screen.dart
-│   ├── registration_screen.dart
+│── app.dart
 │
-│── home/
-│   ├── home_screen.dart
-│   ├── explore_browse_search.dart
+│── core/
+│   ├── privacy/
+│   │   └── consent_repository.dart
+│   ├── storage/
+│   │   └── local_database.dart
 │
-│── booking/
-│   ├── checkout_screen.dart
-│   ├── ticket_screen.dart
-│
-│── experience/
-│   ├── live_event_companion.dart
-│   ├── ticket_entry_assurance.dart
-│   ├── exit_path_screen.dart
-│   ├── outfit_suggestion_screen.dart
-│
-│── profile/
-│   ├── profile_screen.dart
-│   ├── subscription_screen.dart
-│   ├── payment_methods_screen.dart
+│── home_screen.dart
+│── wallet_screen.dart
+│── transactions_screen.dart
+│── predictions_screen.dart
+│── profile_screen.dart
+│── onboarding_screen.dart
+│── vylt_actions_suite.dart
 │
 │── firebase_options.dart
-```
+
+````
 
 ---
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository
+1. Clone the repository  
 2. Install dependencies:
 
    ```bash
    flutter pub get
-   ```
+````
+
 3. Ensure Firebase is configured (`firebase_options.dart`)
 4. Run the app:
 
@@ -243,53 +239,62 @@ lib/
 
 This project was developed following the assessment requirements for:
 
-* PROGRAM: Software Engineering
-* MODULE: Mobile and Web Application Development
+* **PROGRAM:** Software Engineering
+* **MODULE:** Mobile and Web Application Development
 
 The focus is placed on:
 
-* UX-driven problem solving
-* Design justification
-* Feasible implementation
-* Reflective learning
+* UX-driven financial problem solving
+* Human-centered fintech design
+* Predictive system modelling
+* Privacy-first architecture
+* Reflective engineering practice
 
 ---
 
 ## 🔮 Future Improvements
 
-* Real-time crowd data integration
-* Venue staff coordination backend
-* Accessibility-focused AR navigation
-* Multi-venue scalability
+* Secure encrypted local storage
+* Biometric authentication
+* Monte Carlo financial forecasting
+* Backend microservices for real analytics
+* AI-powered spending behaviour modelling
+* Open banking integration (TrueLayer / Plaid)
 
 ---
 
 ## 🧾 License
 
-This project is developed for **educational purposes**.
-All brand names and references are used for academic analysis only.
+This project is developed for **educational and research purposes**.
+All financial data within this repository is **fully simulated**.
 
 ---
+
 ## 👤 Developer Information
 
-**Name:** Jayanth Dasaroju  
+**Name:** Jayanth Dasaroju
 **Student ID:** 2912341
-**Course:** MSc Software Engineering  
-**Module:** Mobile and Web Application Development  
-**Institution:** University of EAST LONDON  
-**Academic Year:** 2025–2026  
-**Project Role:**  
-Sole developer responsible for ideation, UX design, prototyping, implementation, and evaluation of the NOCTIX application.
-**Contact:** 2912341@uel.ac.uk
-**Portfolio:** https://www.jays-dev.space/
+**Course:** MSc Software Engineering
+**Module:** Mobile and Web Application Development
+**Institution:** University of East London
+**Academic Year:** 2025–2026
 
+**Project Role:**
+Sole developer responsible for ideation, HCI research, UX/UI design, system architecture, Flutter implementation, and evaluation.
 
-## 🙌 Final Note
-NOCTIX is not designed to compete with existing ticketing platforms —
-it is designed to **challenge how event experiences should be supported**.
-
-This repository represents:
-> A shift from *booking tickets* → to *supporting people*.
+**Contact:** [2912341@uel.ac.uk](mailto:jayanthdasroju)
+**Portfolio:** [https://www.jays-dev.space/](https://www.jays-dev.space/)
 
 ---
 
+## 🙌 Final Note
+
+VYLT is not designed to replace traditional finance apps —
+it is designed to **redefine how people emotionally understand and act on money**.
+
+This repository represents:
+
+> A shift from *tracking money* → to *feeling and forecasting financial reality*.
+
+::contentReference[oaicite:0]{index=0}
+```
