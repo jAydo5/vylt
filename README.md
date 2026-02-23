@@ -232,9 +232,7 @@ lib/
    ```bash
    flutter run
    ```
-
----
-
+````
 ## 📚 Academic Context
 
 This project was developed following the assessment requirements for:
@@ -296,5 +294,3 @@ This repository represents:
 
 > A shift from *tracking money* → to *feeling and forecasting financial reality*.
 
-::contentReference[oaicite:0]{index=0}
-```
